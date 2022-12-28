@@ -1,0 +1,41 @@
+body{
+background-image:url(image/R.jpg);
+background-size: cover;
+margin: 0px;
+    background-color: rgb(220, 245, 244);
+    position:absolute;
+    top: 20%; 
+    left: 50%;
+    transform:translate(-50% ,-50%);
+    font-weight:bold;
+}
+    form{
+    background-color: rgba(29, 59, 130, 0.491);
+    padding: 30px;
+    border-radius: 10px;
+    }
+.bouton-formulaire{
+text-decoration: none;
+color: black;
+background-color: grey;
+}
+mark{
+    background-color: white;
+    border-radius: 3px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

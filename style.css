@@ -1,0 +1,138 @@
+
+ 
+ .container {
+     background-image: url(image/voyage\ avion.webp);    
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 500px;
+     width: 100%; 
+     color: white;
+     }
+     ol{
+ list-style-type: none;
+ }
+
+
+a href 
+
+
+
+nav.menu-nav ul.li.bouton{
+    list-style-type: none;
+}
+
+nav.menu-nav ul li.bouton{
+    display: inline-block;
+    list-style-type: none;
+    
+}
+
+
+nav.menu-nav ul li.bouton a{
+    color: black;
+    background-color: rgb(33, 76, 70);
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+}
+
+nav.menu-nav ul li.bouton:hover a{
+
+    color: rgb(33, 76, 70);
+    background-color: white;
+    transition: 0.3s all;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+    text-indent: 0%;
+}
+
+h2{
+text-align: center;
+text-decoration:underline;
+}
+
+li{
+    text-align: center;
+    color: black
+    
+}
+
+ul{
+text-align: center;
+color: rgb(33, 76, 70);
+}
+
+body{
+background-color: darkgray;
+}
+
+.P1{
+text-align: justify;
+}
+
+.famille{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.la-plage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.aventure{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.lune-de-miel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.culture{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.bouton-principale{
+text-align:center;
+text-decoration: none;
+color: black;
+background-color:gray ;
+}
+
+h3{text-align: center;
+    font-size: 30px;
+    text-decoration:overline;
+    font-family:'Courier New', Courier, monospace;
+    
+color:rgb(33, 76, 70)
+
+}
+
+li{
+font-size: 30px;
+color: rgba(255, 255, 255, 0.813);
+}
+
+mark{
+background-color: white;
+border-radius: 3px;
+}
